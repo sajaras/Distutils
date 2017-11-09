@@ -1,0 +1,26 @@
+install setuptools
+install pip3
+install dependencies using syntax pip3 install <required>
+required dependencies
+      - pypillowfight
+      - python-Levenshtein
+      - pyenchant
+      - simplebayes
+      - Whoosh
+      - pyocr
+      - pycountry
+      - natsort
+      -pyinsane2
+      
+      
+     
+     
+                              
+                       Please run                      
+|--------------------------------------------------------
+          paperwork-shell chkdeps paperwork_backend     
+             paperwork-shell chkdeps paperwork         
+                  paperwork-shell install              
+--------------------------------------------------------
+             to find any missing dependencies           
+|       and install Paperwork's icons and shortcuts  
