@@ -1,0 +1,7 @@
+to install setup tools in linux
+    sudo apt-get install python3-setuptools
+
+to install module
+    python3 setup.py install
+
+ 
